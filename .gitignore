@@ -1,0 +1,9 @@
+# ignore node modules
+/node_modules
+
+# ignoore templates
+/assets/template
+
+# ignore package-lock.json
+package-lock.json
+
